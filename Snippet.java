@@ -7,7 +7,7 @@ public class Snippet {
 
     public static void main(String[] args) {
         // Replace these with your own inputs
-        String MSISDN = "+94762555196";
+        String MSISDN = "+number";
         String SRC = "your-send-id"; // Removed leading space
         String MESSAGE = "bye";
         String AUTH = "youer-assess-token"; // Replace with your Access Token
