@@ -37,7 +37,7 @@ Welcome to the **REST API - Java POST Method** repository! This project demonstr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rest-api-java-post-method.git
+   git clone https://github.com/lochana2005/rest-api-java-post-method.git
    ```
 2. Navigate to the project directory:
    ```bash
